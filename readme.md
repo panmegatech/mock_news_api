@@ -1,11 +1,11 @@
-# 📰 Mock News API
+# Mock News API
 
 A simple **mock REST API** for news articles, created using [my-json-server](https://my-json-server.typicode.com/).  
 This repository is designed for testing and educational purposes — ideal for small Flutter or web projects that need a fake API endpoint.
 
 ---
 
-## 🚀 Base URL
+## Base URL
 
 ```bash
 https://my-json-server.typicode.com/panmegatech/mock_news_api
@@ -13,7 +13,7 @@ https://my-json-server.typicode.com/panmegatech/mock_news_api
 
 ---
 
-## 📚 Endpoints
+## Endpoints
 ````
 | Endpoint | Description |
 |-----------|-------------|
@@ -24,12 +24,12 @@ https://my-json-server.typicode.com/panmegatech/mock_news_api
 
 ### Example
 
-#### ✅ Get all news
+#### Get all news
 ```bash
 GET https://my-json-server.typicode.com/panmegatech/mock_news_api/news
 ```
 
-#### ✅ Get a specific news item
+#### Get a specific news item
 ```bash
 GET https://my-json-server.typicode.com/panmegatech/mock_news_api/news/1
 ```
