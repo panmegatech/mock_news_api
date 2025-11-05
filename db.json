@@ -1,0 +1,25 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Flutter 4.0 เปิดตัวพร้อมฟีเจอร์ใหม่",
+      "description": "Flutter 4.0 เพิ่มประสิทธิภาพการทำงานและรองรับ Material You เต็มรูปแบบ",
+      "imageUrl": "https://picsum.photos/400/200?random=1",
+      "content": "Flutter 4.0 มาพร้อมการปรับปรุงประสิทธิภาพและรองรับการพัฒนา cross-platform ที่ง่ายขึ้น..."
+    },
+    {
+      "id": 2,
+      "title": "Dart 3.5 ปล่อยแล้ว!",
+      "description": "Dart 3.5 มาพร้อมกับ Pattern Matching และ Record Types ที่สมบูรณ์",
+      "imageUrl": "https://picsum.photos/400/200?random=2",
+      "content": "ทีม Dart ได้เปิดตัว Dart 3.5 ที่มีฟีเจอร์ใหม่เช่น sealed class, records และ pattern matching..."
+    },
+    {
+      "id": 3,
+      "title": "Google เปิดตัว Android 15 Beta",
+      "description": "Android 15 ปรับปรุงระบบความปลอดภัยและเพิ่มฟีเจอร์สำหรับนักพัฒนา",
+      "imageUrl": "https://picsum.photos/400/200?random=3",
+      "content": "Android 15 Beta เปิดให้นักพัฒนาทดลองแล้ว มาพร้อมกับฟีเจอร์ใหม่สำหรับการปรับแต่ง UI และประสิทธิภาพสูงขึ้น..."
+    }
+  ]
+}
